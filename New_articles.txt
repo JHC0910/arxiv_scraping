@@ -1,0 +1,129 @@
+2020-08-16 16:08:07.172645
+
+1.:arXiv:2008.05492
+Title: Comparative Studies of 2HDMs under the Higgs Boson Precision  Measurements
+Authors:Tao Han and others...
+
+2.:arXiv:2008.05610
+Title: Towards reconciling the holographic and lattice descriptions of radially  excited hadrons
+Authors:S. S. Afonin and others...
+
+3.:arXiv:2008.05703
+Title: A New Extraction of Pion Parton Distributions in the Statistical Model
+Authors:Claude Bourrely and others...
+
+4.:arXiv:2008.05771
+Title: On the creation of charged massless fermion pair by a photon in crossed  electromagnetic field
+Authors:V.R. Khalilov and others...
+
+5.:arXiv:2008.05797
+Title: Dynamical grooming at work: from p+p to Pb+Pb
+Authors:Alba Soto-Ontoso and others...
+
+6.:arXiv:2008.05806
+Title: Sum rule for the Compton amplitude and implications for the  proton-neutron mass difference
+Authors:J. Gasser and others...
+
+7.:arXiv:2008.05813
+Title: Particle Production in AgAg Collisions at $E_{\rm Kin}=1.58A$ GeV within  a Hadronic Transport Approach
+Authors:Jan Staudenmaier and others...
+
+8.:arXiv:2008.05978
+Title: Renormalization Group Studies of Dense Relativistic Systems
+Authors:Jens Braun and others...
+
+9.:arXiv:2008.05993
+Title: First exotic hadron with open heavy flavor: $cs\bar u\bar d$ tetraquark
+Authors:Marek Karliner and others...
+
+10.:arXiv:2008.04311
+Title: Cannibal domination and the matter power spectrum
+Authors:Adrienne L. Erickcek and others...
+
+11.:arXiv:2008.05477
+Title: Closed Strings and Weak Gravity from Higher-Spin Causality
+Authors:Jared Kaplan and others...
+
+12.:arXiv:2008.05491
+Title: Natural inflation, strong dynamics, and the role of generalized  anomalies
+Authors:Mohamed M. Anber and others...
+
+13.:arXiv:2008.05616
+Title: High-energy neutrino emission subsequent to gravitational wave radiation  from supermassive black hole mergers
+Authors:Chengchao Yuan and others...
+
+14.:arXiv:2008.05630
+Title: Holographic cosmology solutions of problems with pre-inflationary  cosmology
+Authors:Horatiu Nastase and others...
+
+15.:arXiv:1806.07995
+Title: Charm-quark pole mass from HERA Combined and LHCb charm production data
+Authors:A. Vafaee and others...
+
+16.:arXiv:1908.11730
+Title: Kinetic freeze-out temperature from yields of short-lived resonances
+Authors:Anton Motornenko and others...
+
+17.:arXiv:1910.11533
+Title: Effective Field Theory of Anisotropic Inflation and Beyond
+Authors:Jinn-Ouk Gong and others...
+
+18.:arXiv:1911.07996
+Title: Improved Limits on Millicharged Particles Using the ArgoNeuT Experiment  at Fermilab
+Authors:ArgoNeuT Collaboration and others...
+
+19.:arXiv:1912.12532
+Title: Towards recognizing the light facet of the Higgs Boson
+Authors:Alexandre Alves and others...
+
+20.:arXiv:2002.02902
+Title: Parton Distribution Functions of the Charged Pion Within The xFitter  Framework
+Authors:Ivan Novikov and others...
+
+21.:arXiv:2003.02362
+Title: Excluded-volume model for quarkyonic Matter: Three-flavor baryon-quark  Mixture
+Authors:Dyana C. Duarte and others...
+
+22.:arXiv:2004.07573
+Title: Non-integrable threshold singularities of two-point functions in  perturbation theory
+Authors:Dmitri Melikhov and others...
+
+23.:arXiv:2004.08407
+Title: The 7% Rule: A Maximum Entropy Prediction on New Decays of the Higgs  Boson
+Authors:Alexandre Alves and others...
+
+24.:arXiv:2004.14917
+Title: Implications of the weak gravity conjecture in anomalous quiver gauge  theories
+Authors:Yoshihiko Abe and others...
+
+25.:arXiv:2005.01310
+Title: Gravitational memory effects and Bondi-Metzner-Sachs symmetries in  scalar-tensor theories
+Authors:Shaoqi Hou and others...
+
+26.:arXiv:2006.03092
+Title: Generation of inflationary perturbations in the continuous spontaneous  localization model: The second order power spectrum
+Authors:Gabriel Leon and others...
+
+27.:arXiv:2007.09897
+Title: Nonleptonic two-body weak decays of $¦«_b$ in modified MIT bag  model
+Authors:Chao-Qiang Geng and others...
+
+28.:arXiv:2008.00578
+Title: Borel Representation of $¦Ó$ Hadronic Spectral Function Moments in  Contour-Improved Perturbation Theory
+Authors:Andr¨¦ H. Hoang and others...
+
+29.:arXiv:2008.03431
+Title: Confining potential under the gauge field condensation
+Authors:Hirohumi Sawayanagi and others...
+
+30.:arXiv:2008.04385
+Title: Gravitational formfactors of the $ ¦Ñ$ meson in QCD sum rules
+Authors:T. M. Aliev and others...
+
+31.:arXiv:2008.04682
+Title: $^3$He Universe 2020
+Authors:G.E. Volovik and others...
+
+32.:arXiv:2008.04898
+Title: Next-to-Next-to-Leading-Order Radiative Corrections to  $e^+e^-\to¦Ö_{cJ}+¦Ã$ at $B$ factory
+Authors:Wen-Long Sang and others...
